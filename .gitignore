@@ -60,6 +60,7 @@
 !/.config/**
 !/.gitignore_global
 !/.gitconfig_shared
+!/Wallpaper
 
 !/README.md
 !/LICENSE
