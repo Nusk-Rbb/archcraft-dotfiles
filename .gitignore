@@ -61,6 +61,7 @@
 !/.gitignore_global
 !/.gitconfig_shared
 !/Wallpaper
+!/.local/
 
 !/README.md
 !/LICENSE
