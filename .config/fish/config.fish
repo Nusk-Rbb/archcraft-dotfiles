@@ -14,3 +14,5 @@ alias nv=nvim
 # if [ -f '/home/nusk/Develop/projects/go/discordbot/musicgame-result/google-cloud-sdk/path.fish.inc' ]
 #     . '/home/nusk/Develop/projects/go/discordbot/musicgame-result/google-cloud-sdk/path.fish.inc'
 # end
+
+set -x $BROWSER vivaldi
