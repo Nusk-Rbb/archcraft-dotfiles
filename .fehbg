@@ -1,2 +1,2 @@
 #!/bin/sh
-feh --no-fehbg --bg-fill '/home/nusk/Develop/settings/dotfiles/Wallpaper/Maid.jpeg'
+feh --no-fehbg --bg-fill './.config/bspwm/themes/sparkle/wallpaper'
