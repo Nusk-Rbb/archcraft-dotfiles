@@ -4,11 +4,11 @@
 
 # Import Current Theme
 DIR="$HOME/.config/bspwm"
-STYLE="spark"
+STYLE="sparkle"
 RASI="$DIR/themes/$STYLE/rofi/launcher.rasi"
 
 # Run
 rofi \
-    -show drun \
-	-kb-cancel Alt-F1 \
-	-theme ${RASI}
+  -show drun \
+  -kb-cancel Alt-F1 \
+  -theme ${RASI}

@@ -4,10 +4,10 @@
 
 # Import Current Theme
 DIR="$HOME/.config/bspwm"
-STYLE="spark"
+STYLE="sparkle"
 RASI="$DIR/themes/$STYLE/rofi/windows.rasi"
 
 # Run
 rofi \
-    -show window \
-	-theme ${RASI}
+  -show window \
+  -theme ${RASI}
