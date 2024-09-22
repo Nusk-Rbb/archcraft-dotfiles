@@ -61,6 +61,7 @@
 !/.gitignore_global
 !/.gitconfig_shared
 !/Wallpaper
+!/theme
 !/.local/**
 
 !/README.md
@@ -68,5 +69,4 @@
 !.gitignore
 !.gitkeep
 !.fehbg
-!/theme/**
 !setup.sh
