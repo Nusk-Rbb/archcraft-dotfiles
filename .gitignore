@@ -69,3 +69,4 @@
 !.gitkeep
 !.fehbg
 !/theme/**
+!setup.sh
