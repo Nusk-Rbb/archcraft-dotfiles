@@ -58,6 +58,9 @@
 !/.gitconfig_shared
 !/Wallpaper
 !/theme
+!/.local/
+!/.local/**
+!/.local/share/
 !/.local/share/**
 /.local/share/z
 !setup.sh
