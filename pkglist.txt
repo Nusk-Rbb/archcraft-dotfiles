@@ -473,7 +473,6 @@ squashfs-tools
 ssldump
 sslh
 sslscan
-sslsniff
 sslsplit
 stunnel
 sucrack
@@ -611,8 +610,6 @@ xsser
 xvidcore
 xz
 yad
-yay
-yay-debug
 yersinia
 zip
 zsh
