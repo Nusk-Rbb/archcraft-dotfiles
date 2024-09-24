@@ -59,6 +59,7 @@
 !/Wallpaper
 !/theme
 !/.local/share/**
+/.local/share/z
 !setup.sh
 !/etc
 !pkglist.txt
